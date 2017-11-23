@@ -1,0 +1,23 @@
+!ROFI CONFIGURATION
+!States: bg, fg, bgalt, hlbg, hlfg
+rofi.color-enabled: true
+rofi.hide-scrollbar: true
+rofi.color-normal: #282C34, #61AFEF,  #282C34,  #282C34,  #E5C07B
+rofi.color-urgent: #282C34, #61AFEF,  #282C34,  #282C34,  #E5C07B
+rofi.color-active: #282C34, #61AFEF,  #282C34,  #282C34,  #E5C07B
+!states: background, border
+rofi.color-window: #282C34, #21252B,  #282C34
+
+!rofi.sidebar-mode: true
+rofi.bw: 5
+rofi.columns: 1
+rofi.padding: 10
+rofi.eh: 1
+rofi.margin 10
+
+rofi.opacity: 90
+rofi.location: 2
+rofi.width: 30%
+rofi.font: System San Francisco 18
+rofi.lines: 3
+rofi.separator-style: none
