@@ -1,23 +1,2 @@
 # MyConfig
-133 nemo.desktop
-117 firefox.desktop
-111 com.gexperts.Tilix.desktop
-103 firefox-trunk.desktop
-96 atom.desktop
-95 jetbrains-idea.desktop
-5 gpick.desktop
-4 ca.desrt.dconf-editor.desktop
-4 jetbrains-pycharm-ce.desktop
-4 cinnamon-display-panel.desktop
-2 mintinstall.desktop
-2 cinnamon-color-panel.desktop
-2 cinnamon-settings-power.desktop
-2 cinnamon-settings-themes.desktop
-1 cheese.desktop
-1 psensor.desktop
-1 mintdrivers.desktop
-1 blueberry.desktop
-1 nm-connection-editor.desktop
-1 libreoffice-writer.desktop
-1 cinnamon-settings-keyboard.desktop
-0 synaptic.desktop
+
