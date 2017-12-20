@@ -1,0 +1,74 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "94ef2aaa-5b18-457b-b335-333620a11924"
+    java:
+      beautify_on_save: true
+  "atom-clock":
+    dateFormat: " ddd HH:mm"
+  "atom-html-preview": {}
+  "atom-material-ui":
+    colors:
+      abaseColor: "#ef5350"
+      accentColor: "#59fcff"
+      predefinedColor: "Red"
+  "bracket-matcher": {}
+  core:
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "wrap-guide"
+      "spell-check"
+      "tabs"
+      "teletype"
+      "status-bar"
+    ]
+    packagesWithKeymapsDisabled: [
+      "pdf-view"
+      "fold-comments"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "nord-atom-ui"
+      "nord-atom-syntax"
+    ]
+  "disable-keybindings":
+    prefixKeys: [
+      "ctrl-k"
+    ]
+  editor:
+    fontSize: 17
+    scrollPastEnd: true
+    showIndentGuide: true
+    softWrap: true
+    tabLength: 4
+    zoomFontWhenCtrlScrolling: false
+  "exception-reporting":
+    userId: "31356c5c-8015-4614-97f9-7dcae389e14c"
+  "file-icons": {}
+  "fold-comments":
+    autofold: true
+  "fuzzy-finder":
+    ignoredNames: [
+      "*.class"
+    ]
+  "highlight-selected":
+    lightTheme: true
+  latex:
+    buildOnSave: true
+    opener: "pdf-view"
+    texPath: "/usr/local/texlive/2017/bin/x86_64-linux/"
+  "one-dark-ui": {}
+  pigments: {}
+  "project-manager":
+    alwaysOpenInSameWindow: true
+    sortBy: "last modified"
+  "spell-check":
+    locales: [
+      "en-US"
+      "de-DE"
+    ]
+  "status-bar":
+    fullWidth: false
+  "tabs-to-spaces": {}
+  welcome:
+    showOnStartup: false
