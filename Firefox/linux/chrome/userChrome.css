@@ -120,3 +120,9 @@ toolbarbutton#alltabs-button {
 .text-link.bottom-link {
 	opacity: 0 !important;
 }
+
+
+.bookmark-item {
+  filter: grayscale(60%);
+}
+   
